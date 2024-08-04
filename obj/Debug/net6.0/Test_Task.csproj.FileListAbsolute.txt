@@ -1,0 +1,14 @@
+C:\Users\vitam\Desktop\work\Test_Task\obj\Debug\net6.0\Test_Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitam\Desktop\work\Test_Task\obj\Debug\net6.0\Test_Task.AssemblyInfoInputs.cache
+C:\Users\vitam\Desktop\work\Test_Task\obj\Debug\net6.0\Test_Task.AssemblyInfo.cs
+C:\Users\vitam\Desktop\work\Test_Task\obj\Debug\net6.0\Test_Task.csproj.CoreCompileInputs.cache
+C:\Users\vitam\Desktop\work\Test_Task\bin\Debug\net6.0\Test_Task.exe
+C:\Users\vitam\Desktop\work\Test_Task\bin\Debug\net6.0\Test_Task.deps.json
+C:\Users\vitam\Desktop\work\Test_Task\bin\Debug\net6.0\Test_Task.runtimeconfig.json
+C:\Users\vitam\Desktop\work\Test_Task\bin\Debug\net6.0\Test_Task.dll
+C:\Users\vitam\Desktop\work\Test_Task\bin\Debug\net6.0\Test_Task.pdb
+C:\Users\vitam\Desktop\work\Test_Task\obj\Debug\net6.0\Test_Task.dll
+C:\Users\vitam\Desktop\work\Test_Task\obj\Debug\net6.0\refint\Test_Task.dll
+C:\Users\vitam\Desktop\work\Test_Task\obj\Debug\net6.0\Test_Task.pdb
+C:\Users\vitam\Desktop\work\Test_Task\obj\Debug\net6.0\Test_Task.genruntimeconfig.cache
+C:\Users\vitam\Desktop\work\Test_Task\obj\Debug\net6.0\ref\Test_Task.dll
