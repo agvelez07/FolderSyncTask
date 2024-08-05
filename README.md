@@ -13,7 +13,7 @@
    - **syncInterval**: Synchronization interval in milliseconds.
    - **pathToLogfile**: Path to the log file.
 
-### Exemplo
+### Example
 
 ```sh
 Test_Task.exe "C:\[pathToSource]" "C:\[pathToReplica]" 6000 "C:\[pathToLogfile.txt]"
