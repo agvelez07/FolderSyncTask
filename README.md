@@ -13,6 +13,7 @@
 
 # or
 
+ ```sh
 ...\Test_Task\bin\Debug\net6.0\Test_Task.exe "C:\[pathToSource]" "C:\[pathToReplica]" 6000 "C:\[pathToLogfile.txt]"
 
 syncInterval = "6000"
